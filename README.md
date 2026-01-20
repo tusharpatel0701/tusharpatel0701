@@ -5,7 +5,7 @@ I am a passionate Computer Science (Data Science) student and aspiring Software 
 📊 Strong foundation in Data Structures & Algorithms, DBMS, OOPS, and Operating Systems.
 🚀 I enjoy creating scalable, efficient, and user-friendly applications.
 
-🎯 Goal
+🎯 Goal-->
 Motivated to grow as a Software Engineer, contribute to impactful products, and keep learning new technologies every day.
 
 ## 🌐Socials
