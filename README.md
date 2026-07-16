@@ -116,23 +116,52 @@
 
 ### 🏆 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/tusharpatel0701/GetPlaced-Placement-Portal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tusharpatel0701&repo=GetPlaced-Placement-Portal&theme=radical" />
-  </a>
-  <a href="https://github.com/tusharpatel0701/Vehicle-Parking-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tusharpatel0701&repo=Vehicle-Parking-App&theme=radical" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/The-New-Kid/Codecatalysts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=The-New-Kid&repo=Codecatalysts&theme=radical" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🎓 **GetPlaced** — Role-based placement management portal (Flask, Vue.js, MySQL, Redis, Celery) that replaced spreadsheet workflows and cut API latency from 420ms to 180ms using Redis caching
-- 🅿️ **Vehicle Parking App** — Real-time parking reservation system letting users reserve, release, and track slots, with an admin dashboard to manage lots and monitor usage
-- 🛕 **CodeCatalysts (The New Kid) — DevDhamPath** — Smart Temple & Pilgrimage Management System, SIH 2025 finalist, with real-time slot booking, QR-based access control, SOS alerts, and live location tracking
+#### 🎓 [GetPlaced — Placement Portal](https://github.com/tusharpatel0701/GetPlaced-Placement-Portal)
+Role-based placement management system automating recruitment workflows for admins, companies, and students.
+
+**⚡ Highlight:** cut average API latency **420ms → 180ms** with Redis caching
+
+<a href="https://getplaced-placement-portal.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-View%20Site-success?style=flat&logo=render&logoColor=white" /></a>
+<img src="https://img.shields.io/github/stars/tusharpatel0701/GetPlaced-Placement-Portal?style=flat&color=yellow" />
+<img src="https://img.shields.io/github/last-commit/tusharpatel0701/GetPlaced-Placement-Portal?style=flat&color=blue" />
+
+`Flask` `Vue.js` `MySQL` `Redis` `Celery` `Bootstrap`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🅿️ [Vehicle Parking App](https://github.com/tusharpatel0701/Vehicle-Parking-App)
+Web-based parking management system for real-time slot reservation, release, and tracking.
+
+**⚡ Highlight:** live admin dashboard for lot management & usage monitoring
+
+<img src="https://img.shields.io/github/stars/tusharpatel0701/Vehicle-Parking-App?style=flat&color=yellow" />
+<img src="https://img.shields.io/github/last-commit/tusharpatel0701/Vehicle-Parking-App?style=flat&color=blue" />
+
+`Flask` `SQLite` `HTML/CSS` `Bootstrap`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+#### 🛕 [DevDhamPath — CodeCatalysts (The New Kid)](https://github.com/The-New-Kid/Codecatalysts) &nbsp; <img src="https://img.shields.io/badge/SIH%202025-Grand%20Finalist-orange?style=flat" />
+Smart Temple & Pilgrimage Management System built for real-time crowd, parking, and safety management.
+
+**⚡ Highlights:** QR-based entry/exit validation • real-time slot booking • SOS alerts & live location tracking
+
+<img src="https://img.shields.io/github/forks/The-New-Kid/Codecatalysts?style=flat&color=yellow" />
+<img src="https://img.shields.io/github/last-commit/The-New-Kid/Codecatalysts?style=flat&color=blue" />
+
+`Vue.js` `Flask` `SQLite` `REST APIs` `Capacitor`
+
+</td>
+</tr>
+</table>
 
 ---
 
