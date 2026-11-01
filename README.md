@@ -134,10 +134,8 @@ Role-based placement management system automating recruitment workflows for admi
 </td>
 <td width="50%" valign="top">
 
-#### 🅿️ [Vehicle Parking App](https://github.com/tusharpatel0701/Vehicle-Parking-App)
-Web-based parking management system for real-time slot reservation, release, and tracking.
-
-**⚡ Highlight:** live admin dashboard for lot management & usage monitoring
+#### 🅿️ [devPilot](https://github.com/tusharpatel0701/devpilot)
+An intelligent developer assistant that connects to your GitHub repositories, understands your source code through Retrieval-Augmented Generation (RAG), and helps you explore your projects using natural language.
 
 <img src="https://img.shields.io/github/stars/tusharpatel0701/Vehicle-Parking-App?style=flat&color=yellow" />
 <img src="https://img.shields.io/github/last-commit/tusharpatel0701/Vehicle-Parking-App?style=flat&color=blue" />
