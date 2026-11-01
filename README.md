@@ -134,13 +134,10 @@ Role-based placement management system automating recruitment workflows for admi
 </td>
 <td width="50%" valign="top">
 
-#### 🅿️ [devPilot](https://github.com/tusharpatel0701/devpilot)
+#### [devPilot](https://github.com/tusharpatel0701/devpilot)
 An intelligent developer assistant that connects to your GitHub repositories, understands your source code through Retrieval-Augmented Generation (RAG), and helps you explore your projects using natural language.
 
-<img src="https://img.shields.io/github/stars/tusharpatel0701/Vehicle-Parking-App?style=flat&color=yellow" />
-<img src="https://img.shields.io/github/last-commit/tusharpatel0701/Vehicle-Parking-App?style=flat&color=blue" />
-
-`Flask` `SQLite` `HTML/CSS` `Bootstrap`
+`Next.js` `React.js` `Java` `Spring Boot` `Spring AI` `Docker` `RAG`
 
 </td>
 </tr>
